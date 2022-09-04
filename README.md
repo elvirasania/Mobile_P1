@@ -1,12 +1,6 @@
 # p1
 
 A new Flutter project.
- Nama   : ELVIRA SANIA MUFIDA
- kelas  : TI-3G
- Nim    : 2041720080
- ![image](https://user-images.githubusercontent.com/73875624/188306406-132d3894-8417-4e11-9cdc-d36a62f47080.png)
-
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
